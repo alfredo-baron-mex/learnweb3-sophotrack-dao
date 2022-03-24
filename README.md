@@ -27,5 +27,5 @@ Now, it want to allow the NFT holders to create and vote on proposals to use tha
 ### Lab Content
 ---
 - Smart Contract ([***hardhat***](hardhat))
-- React-Next App ([***my-app***](my-app))
+- React-Next App ([***dao-app***](dao-app))
 
